@@ -1,4 +1,4 @@
-**NOTE:** This is a fork of the original <https://github.com/Clever/saml2>repository. This fork only changes the [`package.json`](package.json) file to include an updated version of [xmldom](https://www.npmjs.com/package/xmldom) that fixes CVE-2021-21366 and also includes the `devDependencies` as `dependencies` instead so you can just `npm i github:C0Nd3Mnd/saml2`. I also included the generated `package-lock.json` file as it was Git ignored in the original project.
+**NOTE:** This is a fork of the original <https://github.com/Clever/saml2> repository. This fork only changes the [`package.json`](package.json) file to include an updated version of [xmldom](https://www.npmjs.com/package/xmldom) that fixes CVE-2021-21366 and also includes the `devDependencies` as `dependencies` instead so you can just `npm i github:C0Nd3Mnd/saml2`. I also included the generated `package-lock.json` file as it was Git ignored in the original project.
 
 # SAML2-js
 
