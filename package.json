@@ -25,12 +25,10 @@
   "bugs": {
     "url": "https://github.com/Clever/saml2/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "coffee-script": "^1.12.0",
     "mocha": "^8.2.0",
-    "nyc": "^15.0.0"
-  },
-  "dependencies": {
+    "nyc": "^15.0.0",
     "async": "^3.2.0",
     "debug": "^4.3.0",
     "underscore": "^1.8.0",
